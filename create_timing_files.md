@@ -58,7 +58,7 @@ In this step, we will use a message report to get all relevant data files.
 	* `TRIAL_START_TIME`
 	* `CURRENT_MSG_TIME`
 	* `ScannerPulseTime`
-	* Any relevant trial variables (e.g., emotion, trial type)
+	* Any relevant trial variables (e.g., emotion, trial type, image type) (ADD "TYPE" for SPR)
 3. Check the box next to Create one Report File per EDF File.
 4. Save changes.
 5. Save these output files in your desired folder.
